@@ -1,0 +1,19 @@
+
+
+.cards{
+	position: relative;
+	transition: transform 0.5s;
+}
+
+.cards:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+
+img{
+ 
+  
+  height:90%;
+  width: 90%;
+ 
+}
