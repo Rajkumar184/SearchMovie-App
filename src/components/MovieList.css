@@ -1,19 +1,14 @@
-
-
-.cards{
+.cards {
 	position: relative;
 	transition: transform 0.5s;
 }
 
-.cards:hover{
+.cards:hover {
 	cursor: pointer;
 	transform: scale(1.1);
 }
 
-img{
- 
-  
-  height:90%;
-  width: 90%;
- 
+img {
+	height: 82%;
+	width: 88%;
 }
